@@ -1,0 +1,7 @@
+StreetAddress,City,State,ZipCode,Country,Amount,Quantity,TaxCode
+3545 Martha Street,Wickenburg,AZ,85390,US,100.00,1,P0000000
+207 Moonlight Drive,Maple Shade,NJ,8052,US,0.50,2,P0000000
+1107 Brookside Drive,Birmingham,AL,35203,US,0.25,10,P0000000
+3517 Cimmaron Road,Dunwoody,GA,30338,US,42,1,P0000001
+2745 Elliot Avenue,Seattle,WA,98101,US,2,1,P0000000
+222 Kearny St,San Francisco,CA,94108,US,1000.00,1,P0000000
