@@ -14,7 +14,7 @@ import static java.nio.charset.StandardCharsets.UTF_8;
 
 public class AvalaraRecordUtil {
 
-  private static final String INPUT_SAMPLE_CSV = "./resources/uat-input-sample.csv";
+  private static final String INPUT_SAMPLE_CSV = "./resources/input-sample.csv";
   private static final List<InputRecord> AVALARA_RECORDS = getAvalaraRecords();
 
   public static List<InputRecord> getByZipCode(String zipCode) {

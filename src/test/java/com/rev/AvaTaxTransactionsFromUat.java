@@ -54,7 +54,7 @@ public class AvaTaxTransactionsFromUat {
   }
 
   @ParameterizedTest
-  @CsvFileSource(resources = "/uat-input-sample.csv", numLinesToSkip = 1)
+  @CsvFileSource(resources = "/input-sample.csv", numLinesToSkip = 1)
   public void canCreateTransactionAndWriteResult(
       String streetAddress,
       String city,
